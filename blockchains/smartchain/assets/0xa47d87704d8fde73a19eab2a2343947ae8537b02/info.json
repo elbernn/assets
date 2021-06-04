@@ -2,8 +2,20 @@
 {
     "name": "GrafenoCoin",
     "website": "http://grafenocoin.com",
-    "description": "GrafenoCoin, GFNC's BEP20 token, created to encourage research on Graphene.",
+    "description": "GrafenoCoin, GFNC BEP20 token, created to encourage research on Graphene.",
     "explorer": "https://bscscan.com/token/0xa47d87704d8fde73a19eab2a2343947ae8537b02",
+     "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/GrafenoCoin",
+            "handle": "GrafenoCoin"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/grafenogfnc",
+            "handle": "grafenogfnc"
+        }
+    ],
     "type": "BEP20",
     "symbol": "GFNC",
     "decimals": 6,
