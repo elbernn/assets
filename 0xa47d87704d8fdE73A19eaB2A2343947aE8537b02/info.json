@@ -1,0 +1,14 @@
+{
+    "id": "0xa47d87704d8fdE73A19eaB2A2343947aE8537b02",
+    "name": "GrafenoCoin",
+    "symbol": "GFNC",
+    "type": "BEP20",
+    "decimals": 6,
+    "website": "https://gfnc.online",
+    "explorer": "https://bscscan.com/token/0xa47d87704d8fde73a19eab2a2343947ae8537b02", 
+    "reflections": false,
+    "social" : {
+        "twitter" : "https://x.com/gfnconline",
+        "telegram" : "https://t.me/gfnconline"
+    }
+}
